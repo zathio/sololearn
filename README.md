@@ -21,8 +21,8 @@ You can find below my progression :
 
 ## PHP (25%)
 
-Work in progress
+Work in progress...
 
 ## React + Redux (10%)
 
-Work in progress
+Work in progress...

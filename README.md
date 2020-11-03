@@ -10,15 +10,15 @@ You can find below my progression :
 
 ## HTML (100%)
 
-![](html-certificate.jpg =500x)
+![](html-certificate.jpg)
 
 ## CSS (100%)
 
-![](css-certificate.jpg =500x)
+![](css-certificate.jpg)
 
 ## Javascript (100%)
 
-![](javascript-certificate.jpg =500x)
+![](javascript-certificate.jpg)
 
 ## PHP (25%)
 

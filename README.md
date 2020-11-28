@@ -19,10 +19,6 @@ You can find below my progression :
 
 ![](javascript-certificate.jpg)
 
-## PHP (25%)
-
-Work in progress...
-
 ## React + Redux (10%)
 
 Work in progress...

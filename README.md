@@ -3,7 +3,7 @@
 ![](sololearn-logo.png)
 
 SoloLearn is a web/mobile app to learn to code for free   
-See my [SoloLearn profile](https://www.sololearn.com/Profile/15111879o) and for more informations check [SoloLearn website](https://www.sololearn.com/)
+See my [SoloLearn profile](https://www.sololearn.com/profile/15111879) and for more informations check [SoloLearn website](https://www.sololearn.com/)
 
 You can find below my progression :
 

@@ -18,7 +18,3 @@ You can find below my progression :
 ## Javascript (100%)
 
 ![](javascript-certificate.jpg)
-
-## React + Redux (10%)
-
-Work in progress...
